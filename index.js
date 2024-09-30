@@ -18,8 +18,8 @@ client.on('ready', () => {
 	        .setApplicationId('1089666122988650567')
 	        .setType('STREAMING')
 	        .setURL('https://youtube.com/watch?v=0k5LSHkUpyQ&si=WaCqe1g0VNeTOd7D')
-	        .setState('HackMap Rov By.zxvxzv')
-	        .setName('HackMap Rov By.zxvxzv')
+	        .setState('Rank Up By.OmniZy')
+	        .setName('Rank Up By.OmniZy')
 	        .setDetails(`Active [ ${timenow} ]`)
 	        .setAssetsLargeImage('https://media.discordapp.net/attachments/1151355927597957131/1159178807027183636/nakroth-nakroth-db.gif?ex=651ef0e4&is=651d9f64&hm=2c2228496621a8e73d8d7ce8398cd982184a3102274213950f5be442aaf6eebe&')
 	        .setAssetsLargeText(`Ping Server.... : ${Math.round(client.ws.ping)} ms`)
@@ -27,7 +27,7 @@ client.on('ready', () => {
 	        .setAssetsSmallImage('https://media.discordapp.net/attachments/1089572008473407588/1095021266525753504/20230410_232327.jpg')
 	        .setAssetsSmallText('Bot')
 	        //.setAssetsSmallText('Bot1')
-	        .addButton('__  [ - Mod ViP Free - ]  __', 'https://t.me/zxvxzv_cracked_mod_vip')
+	        .addButton('__  [ - Join Shop DC - ]  __', 'https://discord.com')
 	        //.addButton('__  [ - JOIN FOR TESTER - ] __', 'https://www.zxvc.xyz/discord');
 	    client.user.setActivity(r);
 		
@@ -57,4 +57,4 @@ client.on('ready', () => {
 	}, 500);
 });
 
-client.login("Token");
+client.login("NzEzNDEzNDYzODcwNzk5OTk0");
