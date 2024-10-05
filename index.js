@@ -57,4 +57,4 @@ client.on('ready', () => {
 	}, 500);
 });
 
-client.login("NzEzNDEzNDYzODcwNzk5OTk0.GbyDtJ.eEavypGPY6TnpjnILMVucWcNj-Uhm1s4neRGx8");
+client.login("NzEzNDEzNDYzODcwNzk5OTk0.G1RXc8.ajq-BwACq-oqwA7PY_qbGyDMuB6WKTi19Jmwak");
